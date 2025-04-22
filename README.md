@@ -80,10 +80,10 @@ yolo detect predict \
 Sample visualizations from the test set with bounding boxes and labels (YOLOv8m).
 
 <p align="center">
-  <img src="outputs/detection1.png" width="45%">
-  <img src="outputs/detection2.png" width="45%">
+  <img src="All.png" width="45%">
+  <img src="output_1.png" width="45%">
   <br><br>
-  <img src="outputs/detection3.png" width="45%">
+  <img src="output_2.png" width="45%">
   <img src="outputs/detection4.png" width="45%">
 </p>
 
